@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name footprimt)(type KiCad)(uri ${KIPRJMOD}/footprimt)(options "")(descr ""))
+)
